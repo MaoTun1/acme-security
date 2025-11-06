@@ -1,0 +1,41 @@
+timestamp,user_id,endpoint,method,account_id,response_code,response_time_ms,ip_address,user_agent,session_token
+2024-10-15 01:30:15,NULL,/api/v1/portfolio/1000,GET,1000,401,45,192.168.1.100,Python-requests/2.28.0,
+2024-10-15 01:30:16,NULL,/api/v1/portfolio/1001,GET,1001,401,42,192.168.1.100,Python-requests/2.28.0,
+2024-10-15 01:30:17,NULL,/api/v1/portfolio/1002,GET,1002,401,44,192.168.1.100,Python-requests/2.28.0,
+2024-10-15 01:30:18,NULL,/api/v1/portfolio/1003,GET,1003,401,43,192.168.1.100,Python-requests/2.28.0,
+2024-10-15 01:30:19,NULL,/api/v1/portfolio/1004,GET,1004,401,46,192.168.1.100,Python-requests/2.28.0,
+2024-10-15 01:45:10,sec_team,/api/v1/portfolio/5001,GET,5001,200,123,10.0.0.50,Mozilla/5.0 (Security-Scanner),test_token_xyz_5001
+2024-10-15 01:45:15,sec_team,/api/v1/portfolio/5002,GET,5002,200,119,10.0.0.50,Mozilla/5.0 (Security-Scanner),test_token_xyz_5002
+2024-10-15 01:45:20,sec_team,/api/v1/portfolio/5003,GET,5003,200,127,10.0.0.50,Mozilla/5.0 (Security-Scanner),test_token_xyz_5003
+2024-10-15 01:45:25,sec_team,/api/v1/portfolio/5004,GET,5004,200,115,10.0.0.50,Mozilla/5.0 (Security-Scanner),test_token_xyz_5004
+2024-10-15 01:45:30,sec_team,/api/v1/portfolio/5005,GET,5005,200,121,10.0.0.50,Mozilla/5.0 (Security-Scanner),test_token_xyz_5005
+2024-10-15 04:15:30,2347,/api/v1/login,POST,,200,234,98.213.45.122,Acme-Mobile-iOS/3.2.1,
+2024-10-15 04:16:15,2347,/api/v1/portfolio/2347,GET,2347,200,145,98.213.45.122,Acme-Mobile-iOS/3.2.1,jwt_token_2347_abc
+2024-10-15 04:18:20,2347,/api/v1/transactions/2347,GET,2347,200,189,98.213.45.122,Acme-Mobile-iOS/3.2.1,jwt_token_2347_abc
+2024-10-15 04:22:45,2347,/api/v1/transfer,POST,,200,456,98.213.45.122,Acme-Mobile-iOS/3.2.1,jwt_token_2347_abc
+2024-10-15 05:30:12,3891,/api/v1/login,POST,,200,198,172.89.15.67,Acme-Mobile-Android/3.1.9,
+2024-10-15 05:31:30,3891,/api/v1/portfolio/3891,GET,3891,200,167,172.89.15.67,Acme-Mobile-Android/3.1.9,jwt_token_3891_def
+2024-10-15 05:33:15,3891,/api/v1/market-data,GET,,200,234,172.89.15.67,Acme-Mobile-Android/3.1.9,jwt_token_3891_def
+2024-10-15 06:45:10,1523,/api/v1/login,POST,,200,267,203.0.113.45,Acme-Mobile-Android/3.2.0,
+2024-10-15 06:46:30,1523,/api/v1/portfolio/1523,GET,1523,200,156,203.0.113.45,Acme-Mobile-Android/3.2.0,jwt_token_1523_stolen
+2024-10-15 06:47:15,1523,/api/v1/portfolio/1524,GET,1524,200,143,203.0.113.45,Acme-Mobile-Android/3.2.0,jwt_token_1523_stolen
+2024-10-15 06:47:18,1523,/api/v1/portfolio/1525,GET,1525,200,138,203.0.113.45,Acme-Mobile-Android/3.2.0,jwt_token_1523_stolen
+2024-10-15 06:47:21,1523,/api/v1/portfolio/1526,GET,1526,200,147,203.0.113.45,Acme-Mobile-Android/3.2.0,jwt_token_1523_stolen
+2024-10-15 06:47:24,1523,/api/v1/portfolio/1527,GET,1527,200,141,203.0.113.45,Acme-Mobile-Android/3.2.0,jwt_token_1523_stolen
+2024-10-15 06:47:27,1523,/api/v1/portfolio/1528,GET,1528,200,139,203.0.113.45,Acme-Mobile-Android/3.2.0,jwt_token_1523_stolen
+2024-10-15 06:47:30,1523,/api/v1/portfolio/1529,GET,1529,200,144,203.0.113.45,Acme-Mobile-Android/3.2.0,jwt_token_1523_stolen
+2024-10-15 06:47:33,1523,/api/v1/portfolio/1530,GET,1530,200,142,203.0.113.45,Acme-Mobile-Android/3.2.0,jwt_token_1523_stolen
+2024-10-15 06:47:36,1523,/api/v1/portfolio/1531,GET,1531,200,148,203.0.113.45,Acme-Mobile-Android/3.2.0,jwt_token_1523_stolen
+2024-10-15 06:47:39,1523,/api/v1/portfolio/1532,GET,1532,200,145,203.0.113.45,Acme-Mobile-Android/3.2.0,jwt_token_1523_stolen
+2024-10-15 06:47:42,1523,/api/v1/portfolio/1533,GET,1533,200,140,203.0.113.45,Acme-Mobile-Android/3.2.0,jwt_token_1523_stolen
+2024-10-15 06:47:45,1523,/api/v1/portfolio/1534,GET,1534,200,146,203.0.113.45,Acme-Mobile-Android/3.2.0,jwt_token_1523_stolen
+2024-10-15 06:47:48,1523,/api/v1/portfolio/1535,GET,1535,200,143,203.0.113.45,Acme-Mobile-Android/3.2.0,jwt_token_1523_stolen
+2024-10-15 06:47:51,1523,/api/v1/portfolio/1536,GET,1536,200,149,203.0.113.45,Acme-Mobile-Android/3.2.0,jwt_token_1523_stolen
+2024-10-15 06:47:54,1523,/api/v1/portfolio/1537,GET,1537,200,141,203.0.113.45,Acme-Mobile-Android/3.2.0,jwt_token_1523_stolen
+2024-10-15 06:47:57,1523,/api/v1/portfolio/1538,GET,1538,200,147,203.0.113.45,Acme-Mobile-Android/3.2.0,jwt_token_1523_stolen
+2024-10-15 07:12:30,4521,/api/v1/login,POST,,200,198,172.89.15.67,Acme-Mobile-iOS/3.2.1,
+2024-10-15 07:13:45,4521,/api/v1/portfolio/4521,GET,4521,200,167,172.89.15.67,Acme-Mobile-iOS/3.2.1,jwt_token_4521_ghi
+2024-10-15 07:15:20,4521,/api/v1/transactions/4521,GET,4521,200,145,172.89.15.67,Acme-Mobile-iOS/3.2.1,jwt_token_4521_ghi
+2024-10-15 08:20:15,6789,/api/v1/login,POST,,200,234,45.123.89.201,Acme-Mobile-Android/3.2.0,
+2024-10-15 08:21:30,6789,/api/v1/portfolio/6789,GET,6789,200,156,45.123.89.201,Acme-Mobile-Android/3.2.0,jwt_token_6789_jkl
+2024-10-15 08:23:45,6789,/api/v1/market-data,GET,,200,198,45.123.89.201,Acme-Mobile-Android/3.2.0,jwt_token_6789_jkl

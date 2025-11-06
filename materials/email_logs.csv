@@ -1,0 +1,11 @@
+timestamp,from,to,subject,link_clicked,ip_address,attachment
+2024-10-15 08:55:12,admin@acme.com,external.contact@protonmail.com,Q3 Meeting Notes,no,10.0.1.50,meeting_notes.pdf
+2024-10-15 09:00:23,security@acme-finance.com,user1@acme.com,URGENT: Verify Your Account - Action Required,yes,203.0.113.45,
+2024-10-15 09:00:25,security@acme-finance.com,user2@acme.com,URGENT: Verify Your Account - Action Required,no,,
+2024-10-15 09:00:27,security@acme-finance.com,user3@acme.com,URGENT: Verify Your Account - Action Required,yes,203.0.113.45,
+2024-10-15 09:00:29,security@acme-finance.com,user4@acme.com,URGENT: Verify Your Account - Action Required,no,,
+2024-10-15 09:00:31,security@acme-finance.com,user5@acme.com,URGENT: Verify Your Account - Action Required,yes,203.0.113.45,
+2024-10-15 09:00:33,security@acme-finance.com,user6@acme.com,URGENT: Verify Your Account - Action Required,no,,
+2024-10-15 09:15:45,support@acme.com,customer1@example.com,Re: Account inquiry,no,10.0.2.30,
+2024-10-15 10:30:12,hr@acme.com,all-staff@acme.com,Team Building Event Next Week,no,10.0.2.15,
+2024-10-15 11:45:20,it@acme.com,engineering@acme.com,Scheduled Maintenance Tonight,no,10.0.2.25,
