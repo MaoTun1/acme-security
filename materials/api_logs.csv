@@ -38,4 +38,4 @@ timestamp,user_id,endpoint,method,account_id,response_code,response_time_ms,ip_a
 2024-10-15 07:15:20,4521,/api/v1/transactions/4521,GET,4521,200,145,172.89.15.67,Acme-Mobile-iOS/3.2.1,jwt_token_4521_ghi
 2024-10-15 08:20:15,6789,/api/v1/login,POST,,200,234,45.123.89.201,Acme-Mobile-Android/3.2.0,
 2024-10-15 08:21:30,6789,/api/v1/portfolio/6789,GET,6789,200,156,45.123.89.201,Acme-Mobile-Android/3.2.0,jwt_token_6789_jkl
-2024-10-15 08:23:45,6789,/api/v1/market-data,GET,,200,198,45.123.89.201,Acme-Mobile-Android/3.2.0,jwt_token_6789_jkl
+2024-10-15 08:23:45,6789,/api/v1/market-data,GET,,200,198,45.123.89.201,Acme-Mobile-Android/3.2.0,jwt_token_6789_jkl 
